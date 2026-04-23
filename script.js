@@ -1,4 +1,4 @@
-// LogAtlas — promotional site interactions
+// LogiAtlas — promotional site interactions
 
 // Initialize Lucide icons
 if (window.lucide && typeof window.lucide.createIcons === 'function') {

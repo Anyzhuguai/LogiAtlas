@@ -54,32 +54,31 @@
   font-display: swap;
   src: url(fonts/font_7.ttf) format('truetype');
 }
-
 @font-face {
   font-family: 'Space Grotesk';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(fonts/font_11.ttf) format('truetype');
+  src: url(fonts/font_8.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Space Grotesk';
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(fonts/font_12.ttf) format('truetype');
+  src: url(fonts/font_9.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Space Grotesk';
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(fonts/font_13.ttf) format('truetype');
+  src: url(fonts/font_10.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Space Grotesk';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(fonts/font_14.ttf) format('truetype');
+  src: url(fonts/font_11.ttf) format('truetype');
 }
